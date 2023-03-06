@@ -2,4 +2,5 @@
 
 class Persona {
 	//Declaracion de variables
+	//Definir primer varibale
 }
