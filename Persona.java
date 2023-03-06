@@ -5,3 +5,4 @@ class Persona {
 	//Definir primer varibale
 }
 //segunda prueba
+	//Declaracion de variables2
